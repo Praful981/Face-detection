@@ -1,6 +1,6 @@
 # Face-detection
 
-The program you provided is designed to perform face recognition using the `face_recognition` library in Python. It reads a set of images from a specified directory, encodes the faces in those images, and then uses a video stream (either from a webcam or a video file) to perform real-time face recognition.
+The program  is designed to perform face recognition using the `face_recognition` library in Python. It reads a set of images from a specified directory, encodes the faces in those images, and then uses a video stream (either from a webcam or a video file) to perform real-time face recognition.
 
 Here are the instructions to run the program:
 
